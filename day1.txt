@@ -1,0 +1,43 @@
+Day 1
+
+Agile Methodology
+project management methodology
+
+Scrum Framework
+* Scrum ceremonies
+*
+
+scrum process
+*vision
+*user stories
+*scrum backlog
+*sprint(2-3 weeks)
+*review
+
+Front end
+*How thinks look
+
+Back end
+*How thinks work
+
+FSD(full stack development)
+consists of frontend,backend,database
+popular
+
+
+MEAN stack
+mongodb
+express
+angular
+nodejs
+
+MERN
+MEVN
+
+
+
+
+
+
+
+
